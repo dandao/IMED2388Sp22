@@ -1,1 +1,1 @@
-# IMED2388Sp22
+# IMED2388Sp22/docs
